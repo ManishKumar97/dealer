@@ -1,0 +1,6 @@
+# Internal docs: never commit to the public repo
+docs/
+CLAUDE.md
+
+# Secrets
+.env
